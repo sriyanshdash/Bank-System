@@ -71,34 +71,5 @@ g++ main.cpp account.cpp -o bank
 ./bank
 ```
 
-### ✅ Using VS Code:
-1. Install the C++ Extension (by Microsoft)
-2. Open the project folder in VS Code
-3. Open terminal and run the above commands
-
----
-
-## 🎓 Learning Objectives
-- Understand class structures in C++
-- Learn how to serialize/deserialize objects
-- Work with vectors and object collections
-- Handle persistent data using files
-- Implement simple security using PIN verification
-
----
-
-## 👨‍💻 Author
-Developed by *[Your Name]* while preparing for roles in software development and financial technology (e.g., UBS Graduate Talent Program).
-
----
-
 ## 🌍 License
 This project is open-source under the MIT License.
-
----
-
-## 📢 Notes for Extension
-- Add interest calculation on deposits  
-- Add transaction logs  
-- Mask PIN input for added security  
-- Build a GUI version with Qt or SFML in future  
